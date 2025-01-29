@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a B.Tech student specializing in Computer Scie
 - **Frontend Development**: HTML, CSS, JavaScript
 - **Backend and Database**: SQL
 - **Data Analysis**: Power BI
-- **Programming Languages**: Java
+- **Programming Languages**: C,Python,Java
 
 ---
 
